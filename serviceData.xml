@@ -21,7 +21,7 @@
             <org>gnu.io.rxtx</org>
             <org>cc.arduino</org>
          </dependencies>
-      </serviceType>
+      </serviceType> 
       <serviceType name="org.myrobotlab.service.AudioCapture" description="captures audio for playback"/>
       <serviceType name="org.myrobotlab.service.AudioFile" description="plays audio files">
          <dependencies>
