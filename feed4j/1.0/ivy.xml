@@ -10,6 +10,6 @@
 		<artifact name="feed4j" type="jar" />
 		<artifact name="nekohtml" type="jar" />
 		<artifact name="xercesImpl" type="jar" />
-		<artifact name="xml-apis.jar" type="jar" />
+		<artifact name="xml-apis" type="jar" />
 	</publications>
 </ivy-module>
