@@ -6,7 +6,6 @@
 		<include url="https://raw.githubusercontent.com/MyRobotLab/repo/develop/ivyconfigurations.xml" />
 	</configurations>
 	<publications>
-		<!-- TODO produce builds for other platforms. -->
-		<artifact conf="x86.64.windows" name="mimic_win64" type="zip" ext="zip" />
+		<artifact name="opencsv-2.3" type="jar"/>
 	</publications>
 </ivy-module>
