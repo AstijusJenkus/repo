@@ -10,6 +10,6 @@
         <artifact name="commons-logging-1.2" type="jar"/>
         <artifact name="httpclient-4.5.2" type="jar"/>
         <artifact name="httpcore-4.4.4" type="jar"/>
-        
+        <artifact name="httpmime-4.5.2" type="jar"/>
     </publications>
 </ivy-module>
